@@ -10,7 +10,4 @@ function QUEUE_TIME(CUSTOMERS: number[], NUM_TILLS: number): number {
   return CUSTOMERS.length * NUM_TILLS;
 }
 
-
-
-
 export default QUEUE_TIME;
